@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NearBuzz</string>
+    <string name="nearbuzz_channel">NearBuzzChannel</string>
+    <string name="text">Title- %1$s Id- %2$s</string>
+    <string name="notification_data">Notification data</string>
+</resources>

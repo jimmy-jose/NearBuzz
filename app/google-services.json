@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456250275806",
+    "firebase_url": "https://nearbuzz-8af4f.firebaseio.com",
+    "project_id": "nearbuzz-8af4f",
+    "storage_bucket": "nearbuzz-8af4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456250275806:android:97ad855104e3baa0",
+        "android_client_info": {
+          "package_name": "xs.jimmy.app.nearbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456250275806-d9lb8vf5lq8pc7okr0ohlg5otfnep4k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWvh47KwbnUfYvA4_kbqfVA65D0UV3rEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456250275806-d9lb8vf5lq8pc7okr0ohlg5otfnep4k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
